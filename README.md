@@ -222,11 +222,19 @@ In the receiver simulation, two XOR gates stand in for the AM26C31 line driver (
 | Design rules | 5 mil minimum clearance and width (a conservative preset) |
 | Intended fab | JLCPCB, 4 layers, 1 oz copper |
 
-| L1 top (components and routing) | L2 / L3 / L4 |
-|---|---|
-| <img src="docs/images/pcb_top.png" width="380" alt="Top layer"> | <img src="docs/images/pcb_inner_layers.png" width="520" alt="Inner and bottom layers"> |
+**L1 (top): components and routing**
 
-The PCB images are rendered straight from the saved `PCB1.PcbDoc` geometry, so they show the current layout. In the inner-layer view, blue is GND, red is 12 V and orange is 5 V.
+<p align="center">
+  <img src="docs/images/pcb_top.png" width="460" alt="Top layer">
+</p>
+
+**L2, L3 and L4: planes** (blue is GND, red is 12 V, orange is 5 V)
+
+<p align="center">
+  <img src="docs/images/pcb_inner_layers.png" width="860" alt="Inner and bottom layers">
+</p>
+
+The PCB images are rendered straight from the saved `PCB1.PcbDoc` geometry, so they show the current layout.
 
 ---
 
