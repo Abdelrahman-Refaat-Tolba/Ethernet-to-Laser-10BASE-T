@@ -18,6 +18,15 @@ The whole signal path is analogue and discrete: no PHY chip, no microcontroller,
 | **Power** | Single 12 V input on a barrel jack; on-board 5 V LDO |
 | **PCB** | 4 layers, 51.9 x 78.7 mm, all routing on the top layer |
 | **Parts** | 56 placed parts (47 components and 9 test points) |
+| **Sourcing** | Every part from local stores in Egypt, except the RJ-45 MagJack |
+
+---
+
+## Design constraint: local parts only
+
+Every component on this board had to be bought from **local electronics stores in Egypt**. The only exception is the RJ-45 MagJack (J2), which was ordered from abroad.
+
+That one limit was the main challenge of the project. Every part is the best option that was in stock locally, and each stage had to reach its speed, gain and margin with those common parts. The circuits explained below show how each one does it.
 
 ---
 
