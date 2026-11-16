@@ -1,0 +1,29 @@
+Qty,Designators,Value / Part,Description,Package
+2,"C6, C7",10 nF,Capacitor,0805
+9,"C2, C3, C5, C8, C9, C10, C11, C13, C16",100 nF,Capacitor,0805
+2,"C1, C12",10 µF,Capacitor,1206
+1,C4,10 µF,Capacitor,Tantalum case A (3216)
+2,"R8, R9",14 Ω,Resistor,0805
+1,R18,14 Ω,Resistor,1206
+1,R22,30 Ω,Resistor,0805
+1,R40,47 Ω,Resistor,0805
+1,R3,100 Ω,Resistor,0805
+1,R4,330 Ω,Resistor,1206
+3,"R1, R2, R14",680 Ω,Resistor,0805
+3,"R5, R6, R13",1 kΩ,Resistor,0805
+1,R7,1 kΩ,Resistor,1206
+2,"R11, R25",2 kΩ,Resistor,0805
+1,R20,3.9 kΩ,Resistor,0805
+2,"R10, R26",5.1 kΩ,Resistor,0805
+3,"R12, R24, R29",10 kΩ,Resistor,0805
+1,U1,74HC14,Hex Schmitt-trigger inverter,DIP-14
+1,U3,AM26C31MDREP,Quad differential line driver (TI),SOIC-16
+1,U6,AMS1117-5.0,5 V LDO regulator,SOT-223
+1,CR3,"TL431AMFDT,215",2.5 V shunt reference (Nexperia),SOT-23
+2,"U2, U4",2N3904,NPN transistor,TO-92
+1,CR1,2N2222A,NPN transistor,TO-18
+1,D1,Laser Module,5 V laser diode module,3-pin module
+1,D2,BPW34,PIN photodiode,BPW34 (2-pin THT)
+1,J1,RAPC732X,DC power jack (Switchcraft),DC barrel jack (THT)
+1,J2,ARJM11C7-009-AB-EW2,RJ-45 with integrated magnetics (Abracon),RJ-45 MagJack (THT)
+9,"T1, T2, T3, T5, T6, T7, T8, T9, T10",Test point,Test point,Test point pad
