@@ -1,0 +1,22 @@
+# Altium auto-backups and logs
+History/
+Project Logs for */
+Project Outputs for */
+__Previews/
+*.SchDocPreview
+*.PcbDocPreview
+*.LOG
+*.Zip
+
+# Altium temporary and lock files
+*.$$$
+*.~*
+*.bak
+*.PrjPcbVariants
+
+# Work folders that are not part of the design
+tmp/
+review/
+.presentation-build/
+Claude outputs/
+output/
